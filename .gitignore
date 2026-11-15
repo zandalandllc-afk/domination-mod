@@ -1,0 +1,10 @@
+yarn-error.log*
+dist/
+node_modules/
+.env
+build/
+.cache/
+coverage/
+.pnpm-store/
+npm-debug.log*
+_site/
